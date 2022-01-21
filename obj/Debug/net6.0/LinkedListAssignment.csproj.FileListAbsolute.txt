@@ -1,0 +1,15 @@
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.csproj.AssemblyReference.cache
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.AssemblyInfoInputs.cache
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.AssemblyInfo.cs
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\LinkedListAssignment.exe
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\LinkedListAssignment.deps.json
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\LinkedListAssignment.runtimeconfig.json
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\LinkedListAssignment.dll
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\ref\LinkedListAssignment.dll
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\bin\Debug\net6.0\LinkedListAssignment.pdb
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.dll
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\ref\LinkedListAssignment.dll
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.pdb
+C:\Users\jayam\source\repos\LinkedListAssignment\LinkedListAssignment\obj\Debug\net6.0\LinkedListAssignment.genruntimeconfig.cache
