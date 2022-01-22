@@ -60,8 +60,8 @@ namespace LinkedListAssignment
                     if (position == 1)
                     {
                         Node node = new Node(data);
-                        node.next = this.head.next;
-                        head.next = node;
+                        node.next = temp.next;
+                        temp.next = node;
                         break;
                     }
                     temp = temp.next; 
